@@ -1,6 +1,9 @@
 # Django-Project
-This is a project for Zuri training
+This is a project for Zuri Scholarship program
 
-## P.S: My ZuriBoard username is; TechieClimi_
+I created a new Python virtual environment and initialized it. Then, I installed Django in it and created a new Django project.
 
-This is a project for Zuri Scholarship program! 
+I used your ZuriBoard username; TechieClimi_ as the name of the project.
+
+ 
+## P.S: This is the beginning of my journey using Django 
